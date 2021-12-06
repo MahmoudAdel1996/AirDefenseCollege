@@ -1,0 +1,18 @@
+<mat-drawer-container class="example-container">
+  <mat-drawer mode="side" opened>
+    <div class="sideBar">
+      <ul class="side-bar list-unstyled p-0 mb-0">
+          <li><a mat-flat-button routerLink="fix-transactions" routerLinkActive="active"><mat-icon>handyman</mat-icon> عمليات الاصلاح</a></li>
+          <li><a mat-flat-button routerLink="add-transaction" routerLinkActive="active"><mat-icon>add_circle</mat-icon> إضافة</a></li>
+      </ul>
+      <div class="mb-3 text-center">
+        <button class="text-white btn" (click)="logout()">تسجيل خروج <mat-icon>logout</mat-icon></button>
+        <br>
+        <br>
+            <small>تصميم وتطوير</small><br>
+            <small>Mahmoud Adel</small>
+    </div>
+    </div>
+  </mat-drawer>
+  <mat-drawer-content><router-outlet></router-outlet></mat-drawer-content>
+</mat-drawer-container>

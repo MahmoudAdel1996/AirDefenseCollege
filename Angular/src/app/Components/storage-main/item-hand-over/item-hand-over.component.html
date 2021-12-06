@@ -1,0 +1,112 @@
+<div class="container">
+    <h1 class="text-center mt-3 mb-5">عملية تسليم منتج</h1>
+    <form [formGroup]="currentForm" method="post">
+        <div class="row justify-content-center">
+            <div class="col-12 my-2">
+                <mat-form-field appearance="outline">
+                    <mat-label>اختار الصنف</mat-label>
+                    <mat-select (valueChange)="categorySelected($event)" id="category" formControlName="category" name="category" placeholder="اختار الصنف">
+                        <mat-option *ngFor="let category of categories" value={{category.id}}>{{category.name}}</mat-option>
+                    </mat-select>
+                    <mat-icon matSuffix>sell</mat-icon>
+                    <mat-hint>مثال: كمبيوتر</mat-hint>
+                </mat-form-field>
+            </div>
+            <div *ngIf="showItemOnly" class="col-12 my-2">
+                <mat-form-field appearance="outline">
+                    <mat-label>اسم المنتج</mat-label>
+                    <mat-select (valueChange)="itemSelected($event)" id="item" formControlName="item" name="item" placeholder="اختار الصنف">
+                        <mat-option *ngFor="let item of items" value={{item.id}}>{{item.name}}</mat-option>
+                    </mat-select>
+                    <mat-icon matSuffix>category</mat-icon>
+                    <mat-hint>الكمية المتوفرة من المنتج: {{orderQuantity}}</mat-hint>
+                </mat-form-field>
+            </div>
+        </div>
+        <div *ngIf="showForms && showItemOnly" class="row justify-content-center">
+            <div class="col-6 my-2">
+                <mat-form-field appearance="outline">
+                    <mat-label>الكمية</mat-label>
+                    <input min="1" (ngModelChange)="changeQuantity($event)" type="number" id="quantity" value="1" formControlName="quantity" name="quantity" matInput placeholder="اكتب الكمية">
+                    <mat-icon matSuffix>pin</mat-icon>
+                    <mat-hint class="text-success">الكمية المتبقية: {{orderReminderQuantity}}</mat-hint>
+                    
+                </mat-form-field>
+            </div>
+            <div class="col-6 my-2">
+                <mat-form-field appearance="outline">
+                    <mat-label>السعر المدفوع</mat-label>
+                    <input min="0" type="number" id="paid" formControlName="paid" name="paid" value="0" matInput placeholder="اكتب السعر بالجنيه">
+                    <mat-icon matSuffix>paid</mat-icon>
+                    <mat-hint class="text-success">السعر المطلوب: {{orderPrice}}</mat-hint>
+                </mat-form-field>
+            </div>
+            <p>بيانات المستلم</p>
+                <div class="col-auto">
+                    <mat-form-field appearance="outline">
+                        <mat-label>الدرجة</mat-label>
+                        <mat-select id="daraga1" formControlName="daraga1" name="daraga1" placeholder="اختار الدجة">
+                            <mat-option *ngFor="let daraga of daragat" value={{daraga.id}}>{{daraga.name}}</mat-option>
+                        </mat-select>
+                        <mat-icon matSuffix>military_tech</mat-icon>
+                        <mat-hint>مثال: جندي</mat-hint>
+                    </mat-form-field>
+                </div>
+        
+                <div class="col">
+                    <mat-form-field appearance="outline">
+                        <mat-label>الاسم</mat-label>
+                        <input id="name1" formControlName="name1" name="name1" matInput placeholder="اكتب الاسم">
+                        <mat-icon matSuffix>person</mat-icon>
+                        <mat-hint>مثال: محمود عادل</mat-hint>
+                    </mat-form-field>
+                </div>
+        
+                <div class="col-auto mb-2">
+                    <mat-form-field appearance="outline">
+                        <mat-label>الفرع</mat-label>
+                        <mat-select id="branch" formControlName="branch" name="branch" placeholder="اختار الفرع">
+                            <mat-option *ngFor="let branch of branches" value={{branch.id}}>{{branch.name}}</mat-option>
+                        </mat-select>
+                        <mat-icon matSuffix>apartment</mat-icon>
+                        <mat-hint>مثال: فرع نظم المعلومات</mat-hint>
+                    </mat-form-field>
+                </div>
+            <hr>
+            <p>بيانات المَسلم</p>
+                <div class="col-auto">
+                    <mat-form-field appearance="outline">
+                        <mat-label>الدرجة</mat-label>
+                        <mat-select id="daraga2" formControlName="daraga2" name="daraga2" placeholder="اختار الدجة">
+                            <mat-option *ngFor="let daraga of daragat" value={{daraga.id}}>{{daraga.name}}</mat-option>
+                        </mat-select>
+                        <mat-icon matSuffix>military_tech</mat-icon>
+                        <mat-hint>مثال: جندي</mat-hint>
+                    </mat-form-field>
+                </div>
+                <div class="col">
+                    <mat-form-field appearance="outline">
+                        <mat-label>الاسم</mat-label>
+                        <input id="name2" formControlName="name2" name="name2" matInput placeholder="اكتب الاسم">
+                        <mat-icon matSuffix>person</mat-icon>
+                        <mat-hint>مثال: محمود عادل</mat-hint>
+                    </mat-form-field>
+                </div>
+            </div>
+
+        <div class="row justify-content-between align-items-center mt-5">
+            <div class="col-auto">
+                <button [disabled]="currentForm.invalid" (click)="addItem()" class="px-5 py-2" mat-flat-button color="primary">
+                    <span *ngIf="!isLoading"><mat-icon matSuffix>import_export</mat-icon> تسليم</span>
+                    <span *ngIf="isLoading"> انتظر ...</span>
+                </button>
+            </div>
+            <div class="col-auto">
+                <button type="reset" (click)="resetAll()" class="px-5 py-2" mat-flat-button color="warn">
+                    <mat-icon matSuffix>restart_alt</mat-icon> تفريغ
+                </button>
+                
+            </div>
+        </div>
+        </form>
+</div>

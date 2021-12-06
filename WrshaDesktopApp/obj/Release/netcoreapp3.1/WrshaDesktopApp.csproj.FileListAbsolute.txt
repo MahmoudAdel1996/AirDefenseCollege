@@ -1,0 +1,125 @@
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\برنامج الورشة.exe
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\برنامج الورشة.deps.json
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\برنامج الورشة.runtimeconfig.json
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\برنامج الورشة.runtimeconfig.dev.json
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\برنامج الورشة.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\برنامج الورشة.pdb
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\AutoMapper.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Nozom.Data.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Nozom.Domain.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Nozom.Infrastructure.dll
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Nozom.Data.pdb
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Nozom.Domain.pdb
+D:\project\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Nozom.Infrastructure.pdb
+D:\project\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.csprojAssemblyReference.cache
+D:\project\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.Properties.Resources.resources
+D:\project\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.Form1.resources
+D:\project\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.Views.Form2.resources
+D:\project\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.csproj.GenerateResource.cache
+D:\project\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.AssemblyInfoInputs.cache
+D:\project\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.AssemblyInfo.cs
+D:\project\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.csproj.CoreCompileInputs.cache
+D:\project\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.csproj.CopyComplete
+D:\project\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\برنامج الورشة.dll
+D:\project\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\برنامج الورشة.pdb
+D:\project\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.genruntimeconfig.cache
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\برنامج الورشة.exe
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\برنامج الورشة.deps.json
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\برنامج الورشة.runtimeconfig.json
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\برنامج الورشة.runtimeconfig.dev.json
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\برنامج الورشة.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\برنامج الورشة.pdb
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\AutoMapper.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Nozom.Data.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Nozom.Domain.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Nozom.Infrastructure.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Nozom.Data.pdb
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Nozom.Domain.pdb
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\bin\Release\netcoreapp3.1\Nozom.Infrastructure.pdb
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.csprojAssemblyReference.cache
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.Properties.Resources.resources
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.Form1.resources
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.Views.Form2.resources
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.Views.Note.resources
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.csproj.GenerateResource.cache
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.AssemblyInfoInputs.cache
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.AssemblyInfo.cs
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.csproj.CoreCompileInputs.cache
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.csproj.CopyComplete
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\برنامج الورشة.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\برنامج الورشة.pdb
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\WrshaDesktopApp\obj\Release\netcoreapp3.1\WrshaDesktopApp.genruntimeconfig.cache

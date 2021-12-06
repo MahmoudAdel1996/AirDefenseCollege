@@ -1,0 +1,20 @@
+<mat-drawer-container class="example-container">
+    <mat-drawer mode="side" opened>
+        <div class="sideBar">
+        <ul class="side-bar list-unstyled p-0">
+            <li><a mat-flat-button routerLink="preview" routerLinkActive="active"><mat-icon>sell</mat-icon> محتويات المخزن</a></li>
+            <li><a mat-flat-button routerLink="hand-over-item" routerLinkActive="active"><mat-icon>import_export</mat-icon> تسليم</a></li>
+            <li><a mat-flat-button routerLink="add-item" routerLinkActive="active"><mat-icon>add_circle</mat-icon> إضافة</a></li>
+            <li><a mat-flat-button routerLink="history" routerLinkActive="active"><mat-icon>history</mat-icon> السجل</a></li>
+        </ul>
+        <div class="mb-3 text-center">
+            <button class="text-white btn" (click)="logout()">تسجيل خروج <mat-icon>logout</mat-icon></button>
+            <br>
+            <br>
+            <small>تصميم وتطوير</small><br>
+            <small>Mahmoud Adel</small>
+        </div>
+        </div>
+    </mat-drawer>
+    <mat-drawer-content><router-outlet></router-outlet></mat-drawer-content>
+</mat-drawer-container>

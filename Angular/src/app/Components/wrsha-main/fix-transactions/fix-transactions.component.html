@@ -1,0 +1,138 @@
+<div class="container-fluid">
+    <h1 class="my-3 text-center">ورشة الاصلاح</h1>
+    <mat-form-field>
+        <mat-label>إبحث</mat-label>
+        <input matInput (keyup)="applyFilter($event)" placeholder="اكتب هنا" #input>
+      </mat-form-field>
+      <div class="table-responsive">
+        <div class="mat-elevation-z8">
+          <table mat-table [dataSource]="dataSource" matSort>
+            <!-- ID Column -->
+            <ng-container matColumnDef="id" sticky>
+              <th mat-header-cell *matHeaderCellDef> </th>
+              <td class="text-center" mat-cell *matCellDef="let row">
+                <button color="warn" mat-icon-button [matMenuTriggerFor]="beforeMenu"><mat-icon matSuffix>create</mat-icon></button> 
+                <mat-menu #beforeMenu="matMenu" xPosition="before">
+                  <button (click)="openFixDialog(row)" mat-menu-item [disabled]="row.deviceStateId == 2">
+                    <mat-icon>check_circle</mat-icon>
+                    <span>تم الاصلاح</span>
+                  </button>
+                  <button (click)="openHandOverDialog(row)" [disabled]="row.exitDate !== null" mat-menu-item >
+                    <mat-icon>import_export</mat-icon>
+                    <span>تسليم الجهاز</span>
+                  </button>
+                  <button (click)="openProblemDescriptionDialog(row)" mat-menu-item>
+                    <mat-icon>edit</mat-icon>
+                    <span>تعديل وصف المشكلة</span>
+                  </button>
+                  <button (click)="openNotesDialog(row)" mat-menu-item>
+                    <mat-icon>note_add</mat-icon>
+                    <span>ملاحظات</span>
+                  </button>
+                </mat-menu>
+              </td>
+            </ng-container>
+        
+            <!-- Name Column -->
+            <ng-container matColumnDef="enterDate">
+              <th x mat-header-cell *matHeaderCellDef mat-sort-header> وقت الاستلام </th>
+              <td class="text-center" mat-cell *matCellDef="let row"> {{row.enterDate |date:'yyyy/MM/dd'}} <br> {{row.enterDate |date:'h:mm a'}} </td>
+            </ng-container>
+        
+            <!-- Name Column -->
+            <ng-container matColumnDef="exitDate">
+              <th class="borderBreak" mat-header-cell *matHeaderCellDef mat-sort-header> وقت التسليم </th>
+              <td class="borderBreak text-center" mat-cell *matCellDef="let row">{{row.exitDate |date:'yyyy/MM/dd'}} <br> {{row.exitDate |date:'h:mm a'}} </td>
+            </ng-container>
+        
+            <!-- Name Column -->
+            <ng-container matColumnDef="ownerDaragaId">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> درجة المَسلم </th>
+              <td mat-cell *matCellDef="let row"> {{staticVariable.daragat[row.ownerDaragaId]}} </td>
+            </ng-container>
+        
+            <!-- Name Column -->
+            <ng-container matColumnDef="ownerName">
+              <th class="borderBreak" mat-header-cell *matHeaderCellDef mat-sort-header> اسم المَسلم </th>
+              <td class="borderBreak" mat-cell *matCellDef="let row"> {{row.ownerName}} </td>
+            </ng-container>
+        
+            <!-- Name Column -->
+            <ng-container matColumnDef="reciverDaragaId">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> درجة المستلم </th>
+              <td mat-cell *matCellDef="let row"> {{staticVariable.daragat[row.reciverDaragaId]}} </td>
+            </ng-container>
+        
+            <!-- Name Column -->
+            <ng-container matColumnDef="reciverName">
+              <th class="borderBreak" mat-header-cell *matHeaderCellDef mat-sort-header> اسم المستلم </th>
+              <td class="borderBreak" mat-cell *matCellDef="let row"> {{row.reciverName}} </td>
+            </ng-container>
+        
+            <!-- Name Column -->
+            <ng-container matColumnDef="handOverToDaragaId">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header>تم التسليم الي درجة</th>
+              <td mat-cell *matCellDef="let row"> {{staticVariable.daragat[row.handOverToDaragaId]}} </td>
+            </ng-container>
+        
+            <!-- Name Column -->
+            <ng-container matColumnDef="handOverToName">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> تم تسليم إلي اسم </th>
+              <td mat-cell *matCellDef="let row"> {{row.handOverToName}} </td>
+            </ng-container>
+        
+            <!-- Name Column -->
+            <ng-container matColumnDef="deviceType">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header>نوع الجهاز</th>
+              <td mat-cell *matCellDef="let row"> {{row.deviceType?.type}} </td>
+            </ng-container>
+        
+            <!-- Name Column -->
+            <ng-container matColumnDef="deviceName">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> الموديل </th>
+              <td mat-cell *matCellDef="let row"> {{row.deviceName}} </td>
+            </ng-container>
+        
+            <!-- Name Column -->
+            <ng-container matColumnDef="deviceSrialNumber">
+              <th class="borderBreak" mat-header-cell *matHeaderCellDef mat-sort-header> سريال </th>
+              <td class="borderBreak" mat-cell *matCellDef="let row"> {{row.deviceSrialNumber}} </td>
+            </ng-container>
+        
+            <!-- Name Column -->
+            <ng-container matColumnDef="deviceBranchId">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> الفرع </th>
+              <td mat-cell *matCellDef="let row"> {{row.deviceBranch.name}} </td>
+            </ng-container>
+        
+            <!-- Name Column -->
+            <ng-container matColumnDef="problemDeescription">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> وصف المشكلة </th>
+              <td mat-cell *matCellDef="let row"> {{row.problemDeescription}} </td>
+            </ng-container>
+        
+            <!-- Name Column -->
+            <ng-container matColumnDef="notes">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> ملاحظات </th>
+              <td mat-cell *matCellDef="let row"> {{row.notes}} </td>
+            </ng-container>
+        
+            <!-- Name Column -->
+            <ng-container matColumnDef="deviceStateId">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> الحالة </th>
+              <td mat-cell *matCellDef="let row"> {{staticVariable.state[row.deviceStateId]}} </td>
+            </ng-container>
+        
+            <tr mat-header-row *matHeaderRowDef="displayedColumns; sticky: true"></tr>
+            <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+        
+            <!-- Row shown when there is no matching data. -->
+            <tr class="mat-row" *matNoDataRow>
+              <td class="mat-cell" colspan="4">لا توجد بيانات متوافقة "{{input.value}}"</td>
+            </tr>
+          </table>
+        
+          <mat-paginator [pageSizeOptions]="[10, 25, 100]"></mat-paginator>
+        </div>
+    </div>
+</div>

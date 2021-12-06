@@ -1,0 +1,30 @@
+<h3 mat-dialog-title class="text-primary">تسليم الجهاز <mat-icon>import_export</mat-icon></h3>
+<form method="POST" [formGroup]="currentForm">
+<div mat-dialog-content class="my-5">
+  <p>تسليم الجهازالي:</p>
+  <div class="row">
+    <div class="col-auto">
+        <mat-form-field appearance="outline">
+            <mat-label>الدرجة</mat-label>
+            <mat-select id="daraga3" formControlName="daraga3" name="daraga3" placeholder="اختار الدجة">
+                <mat-option *ngFor="let daraga of daragat" value={{daraga.id}}>{{daraga.name}}</mat-option>
+            </mat-select>
+            <mat-icon matSuffix>military_tech</mat-icon>
+            <mat-hint>مثال: جندي</mat-hint>
+        </mat-form-field>
+    </div>
+    <div class="col">
+      <mat-form-field class="w-100" appearance="outline">
+          <mat-label>الاسم</mat-label>
+          <input  id="name3" formControlName="name3" name="name3" matInput placeholder="اكتب الاسم">
+          <mat-icon matSuffix>person</mat-icon>
+          <mat-hint>مثال: محمود عادل</mat-hint>
+      </mat-form-field>
+    </div>
+  </div>
+</div>
+<div mat-dialog-actions>
+  <button [disabled]="currentForm.invalid" (click)="handOver()" mat-flat-button color="primary">تسليم</button>
+  <button type="button" color="warn" mat-flat-button mat-dialog-close cdkFocusInitial>إغلاق</button>
+</div>
+</form>

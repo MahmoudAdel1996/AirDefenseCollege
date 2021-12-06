@@ -1,0 +1,23 @@
+.example-card {
+    min-width: 200px;
+    width: 100%;
+    margin: 1.75rem 1rem;
+    padding: 3rem 1rem;
+    background-color: #ddd;
+
+    .category-name {
+        text-align: center;
+    }
+    
+    .category-quantity {
+        font-size: 2rem;
+        text-align: center;
+        font-weight: 400;
+        color: Red;
+    }
+    .add-new-category{
+        font-size: 2.5em;
+        width: auto;
+        height: auto;
+    }
+}

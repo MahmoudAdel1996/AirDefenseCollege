@@ -1,0 +1,25 @@
+<form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+  <section>
+    <div class="card">
+      <div class="content">
+        <h2>تسجيل الدخول</h2>
+        <div>
+            <mat-form-field appearance="outline">
+                <mat-label>اسم المستخدم</mat-label>
+                <input id="username" formControlName="username" name="username" matInput placeholder="اكتب اسم المستخدم">
+                <mat-icon matSuffix>person</mat-icon>
+            </mat-form-field>
+        </div>
+        <div>
+            <mat-form-field appearance="outline">
+                <mat-label>كلمة السر</mat-label>
+                <input formControlName="password" id="password" name="password" type="password" placeholder="كلمة السر" matInput>
+                <mat-icon matSuffix>lock</mat-icon>
+            </mat-form-field>
+        </div>
+        <button class="py-2" mat-flat-button [disabled]="loading" color="primary"  type="submit">دخول <mat-icon class="text-white">login</mat-icon></button>
+        <div *ngIf="error" class="alert alert-danger mt-3 mb-0 p-2">{{error}}</div>
+      </div>
+    </div>
+  </section>
+</form>

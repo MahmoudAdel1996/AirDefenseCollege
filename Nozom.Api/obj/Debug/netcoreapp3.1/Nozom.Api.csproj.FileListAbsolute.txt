@@ -1,0 +1,142 @@
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Api.exe
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Api.deps.json
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Api.runtimeconfig.json
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Api.runtimeconfig.dev.json
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Api.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Api.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Data.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Domain.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Infrastructure.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Data.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Domain.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Infrastructure.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.csprojAssemblyReference.cache
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.AssemblyInfoInputs.cache
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.AssemblyInfo.cs
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.RazorTargetAssemblyInfo.cache
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.csproj.CopyComplete
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\staticwebassets\Nozom.Api.StaticWebAssets.Manifest.cache
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\staticwebassets\Nozom.Api.StaticWebAssets.xml
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.genruntimeconfig.cache
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\SautinSoft.Document.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.csproj.CoreCompileInputs.cache
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Api.StaticWebAssets.xml
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Api.exe
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Api.deps.json
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Api.runtimeconfig.json
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Api.runtimeconfig.dev.json
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Api.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Api.pdb
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\SautinSoft.Document.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Data.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Domain.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Infrastructure.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Data.pdb
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Domain.pdb
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\bin\Debug\netcoreapp3.1\Nozom.Infrastructure.pdb
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.csproj.AssemblyReference.cache
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.AssemblyInfoInputs.cache
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.AssemblyInfo.cs
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.csproj.CoreCompileInputs.cache
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\staticwebassets\Nozom.Api.StaticWebAssets.Manifest.cache
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.RazorTargetAssemblyInfo.cache
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.csproj.CopyComplete
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.pdb
+D:\Projects in Army\NozomApp\Nozom\Nozom.Api\obj\Debug\netcoreapp3.1\Nozom.Api.genruntimeconfig.cache

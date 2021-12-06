@@ -1,0 +1,42 @@
+D:\project\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Domain.deps.json
+D:\project\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Domain.dll
+D:\project\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Domain.pdb
+D:\project\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Data.dll
+D:\project\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Infrastructure.dll
+D:\project\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Data.pdb
+D:\project\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Infrastructure.pdb
+D:\project\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.csprojAssemblyReference.cache
+D:\project\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.AssemblyInfoInputs.cache
+D:\project\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.AssemblyInfo.cs
+D:\project\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.csproj.CoreCompileInputs.cache
+D:\project\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.csproj.CopyComplete
+D:\project\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.dll
+D:\project\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.pdb
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Domain.deps.json
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Domain.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Domain.pdb
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Data.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Infrastructure.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Data.pdb
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Infrastructure.pdb
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.csprojAssemblyReference.cache
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.AssemblyInfoInputs.cache
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.AssemblyInfo.cs
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.csproj.CoreCompileInputs.cache
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.csproj.CopyComplete
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Domain.deps.json
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Domain.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Domain.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Data.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Infrastructure.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Data.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\bin\Release\netstandard2.0\Nozom.Infrastructure.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.csprojAssemblyReference.cache
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.AssemblyInfoInputs.cache
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.AssemblyInfo.cs
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.csproj.CoreCompileInputs.cache
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.csproj.CopyComplete
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\obj\Release\netstandard2.0\Nozom.Domain.pdb

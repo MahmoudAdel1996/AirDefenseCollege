@@ -1,0 +1,55 @@
+D:\project\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.deps.json
+D:\project\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.dll
+D:\project\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.pdb
+D:\project\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.csprojAssemblyReference.cache
+D:\project\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.AssemblyInfoInputs.cache
+D:\project\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.AssemblyInfo.cs
+D:\project\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.csproj.CoreCompileInputs.cache
+D:\project\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.dll
+D:\project\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.pdb
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.deps.json
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.dll
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.pdb
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.csprojAssemblyReference.cache
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.AssemblyInfoInputs.cache
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.AssemblyInfo.cs
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.dll
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.pdb
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.deps.json
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.dll
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.pdb
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.csprojAssemblyReference.cache
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.AssemblyInfoInputs.cache
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.AssemblyInfo.cs
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.csproj.CoreCompileInputs.cache
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.dll
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.pdb
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.deps.json
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.pdb
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.csprojAssemblyReference.cache
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.AssemblyInfoInputs.cache
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.AssemblyInfo.cs
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.csproj.CoreCompileInputs.cache
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.deps.json
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.csprojAssemblyReference.cache
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.AssemblyInfoInputs.cache
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.AssemblyInfo.cs
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.csproj.CoreCompileInputs.cache
+D:\Projects in Army\NozomApp\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.deps.json
+D:\Projects in Army\NozomApp\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.pdb
+D:\Projects in Army\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.csproj.AssemblyReference.cache
+D:\Projects in Army\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects in Army\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.AssemblyInfoInputs.cache
+D:\Projects in Army\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.AssemblyInfo.cs
+D:\Projects in Army\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.csproj.CoreCompileInputs.cache
+D:\Projects in Army\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.pdb

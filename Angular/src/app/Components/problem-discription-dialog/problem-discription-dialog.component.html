@@ -1,0 +1,15 @@
+<h3 mat-dialog-title class="text-primary">تعديل وصف المشكلة <mat-icon>edit</mat-icon></h3>
+<form method="POST" [formGroup]="currentForm">
+<div mat-dialog-content class="my-5">
+  <mat-form-field class="w-100" appearance="outline">
+    <mat-label>وصف المشكلة</mat-label>
+    <textarea rows="4" id="problem" formControlName="problem" name="problem" matInput placeholder="اكتب وصف المشكلة"></textarea>
+    <mat-icon matSuffix>report_problem</mat-icon>
+    <mat-hint>مثال: الرام مهزوزة</mat-hint>
+  </mat-form-field>
+</div>
+<div mat-dialog-actions>
+  <button mat-flat-button [disabled]="currentForm.invalid" (click)="editProblemDescription()" color="primary">حفظ</button>
+  <button color="warn" mat-flat-button mat-dialog-close cdkFocusInitial>إغلاق</button>
+</div>
+</form>

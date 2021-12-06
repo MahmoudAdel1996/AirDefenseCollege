@@ -1,0 +1,70 @@
+<div class="container">
+    <h1 class="text-center mt-3 mb-5">عملية إضافة بالمخزن</h1>
+    <form [formGroup]="currentForm" method="post">
+        <div class="row justify-content-center">
+            <div class="col-12 my-2">
+                <mat-form-field appearance="outline">
+                    <mat-label>اختار الصنف</mat-label>
+                    <mat-select (valueChange)="categorySelected($event)" id="category" formControlName="category" name="category" placeholder="اختار الصنف">
+                        <mat-option *ngFor="let category of categories" value={{category.id}}>{{category.name}}</mat-option>
+                    </mat-select>
+                    <mat-icon matSuffix>sell</mat-icon>
+                    <mat-hint>مثال: كمبيوتر</mat-hint>
+                </mat-form-field>
+            </div>
+            <div class="col-12 my-2">
+                <mat-slide-toggle id="newItem" formControlName="newItem" name="newItem" color="primary" (change)="toggleButtonChange($event)">منتج جديد</mat-slide-toggle>
+            </div>
+        </div>
+        <div *ngIf="showItemOnly" class="col-12 my-2">
+            <mat-form-field *ngIf="!newItem" appearance="outline">
+                <mat-label>اختار المنتج</mat-label>
+                <mat-select (valueChange)="itemSelected($event)" id="item" formControlName="item" name="item" placeholder="اختار المنتج">
+                    <mat-option *ngFor="let item of items" value={{item.id}}>{{item.name}}</mat-option>
+                </mat-select>
+                <mat-icon matSuffix>category</mat-icon>
+                <mat-hint>مثال: كمبيوتر</mat-hint>
+            </mat-form-field>
+            <mat-form-field *ngIf="newItem" appearance="outline">
+                <mat-label>اسم المنتج</mat-label>
+                <input id="name" formControlName="name" name="name" matInput placeholder="اكتب اسم المنتج">
+                <mat-icon matSuffix>category</mat-icon>
+                <mat-hint>مثال: Dell Optlix 780</mat-hint>
+            </mat-form-field>
+        </div>
+        <div *ngIf="showForms && showItemOnly" class="row justify-content-center">
+            
+            <div class="col-6 my-2">
+                <mat-form-field appearance="outline">
+                    <mat-label>السعر</mat-label>
+                    <input min="0" type="number" id="price" formControlName="price" name="price" value="0" matInput placeholder="اكتب السعر بالجنيه">
+                    <mat-icon matSuffix>paid</mat-icon>
+                    <mat-hint>مثال: 40</mat-hint>
+                </mat-form-field>
+            </div>
+
+            <div class="col-6 my-2">
+                <mat-form-field appearance="outline">
+                    <mat-label>الكمية</mat-label>
+                    <input min="1" type="number" id="quantity" formControlName="quantity" name="quantity" value="1" matInput placeholder="اكتب الكمية">
+                    <mat-icon matSuffix>pin</mat-icon>
+                    <mat-hint>مثال: 5</mat-hint>
+                </mat-form-field>
+            </div>
+        </div>
+        <div class="row justify-content-between align-items-center mt-5">
+            <div class="col-auto">
+                <button [disabled]="currentForm.invalid" (click)="addItem()" class="px-5 py-2" mat-flat-button color="primary">
+                    <span *ngIf="!isLoading"><mat-icon matSuffix>add</mat-icon> إضافة</span>
+                    <span *ngIf="isLoading"> انتظر ...</span>
+                </button>
+            </div>
+            <div class="col-auto">
+                <button type="reset" (click)="resetAll()" class="px-5 py-2" mat-flat-button color="warn">
+                    <mat-icon matSuffix>restart_alt</mat-icon> تفريغ
+                </button>
+                
+            </div>
+        </div>
+        </form>
+</div>

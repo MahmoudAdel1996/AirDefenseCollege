@@ -1,0 +1,19 @@
+<h3 mat-dialog-title class="text-primary">إضافة صنف <mat-icon>import_export</mat-icon></h3>
+<form method="POST" [formGroup]="currentForm">
+<div mat-dialog-content class="my-5">
+  <div class="row">
+    <div class="col">
+      <mat-form-field class="w-100" appearance="outline">
+          <mat-label>اسم الصنف الجديد</mat-label>
+          <input  id="category" formControlName="category" name="category" matInput placeholder="اكتب الصنف">
+          <mat-icon matSuffix>sell</mat-icon>
+          <mat-hint>مثال: كبيوتر</mat-hint>
+      </mat-form-field>
+    </div>
+  </div>
+</div>
+<div mat-dialog-actions>
+  <button [disabled]="currentForm.invalid" (click)="AddCategory()" mat-flat-button color="primary">إضافة</button>
+  <button type="button" color="warn" mat-flat-button mat-dialog-close cdkFocusInitial>إغلاق</button>
+</div>
+</form>

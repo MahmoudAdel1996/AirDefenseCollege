@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: "Droid Arabic Kufi", "Helvetica Neue", sans-serif; direction: rtl;}
+* {
+    font-family: "Droid Arabic Kufi", "Helvetica Neue", sans-serif ; 
+    font-size: large;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Droid Arabic Kufi", "Helvetica Neue", sans-serif !important; 
+    font-size: xx-large !important;
+}
+small{
+    color: peachpuff;
+}

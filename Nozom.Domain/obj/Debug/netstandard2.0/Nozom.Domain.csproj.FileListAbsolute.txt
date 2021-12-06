@@ -1,0 +1,85 @@
+D:\project\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.deps.json
+D:\project\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.dll
+D:\project\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.pdb
+D:\project\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Data.dll
+D:\project\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Infrastructure.dll
+D:\project\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Data.pdb
+D:\project\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Infrastructure.pdb
+D:\project\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csprojAssemblyReference.cache
+D:\project\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.AssemblyInfoInputs.cache
+D:\project\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.AssemblyInfo.cs
+D:\project\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csproj.CoreCompileInputs.cache
+D:\project\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csproj.CopyComplete
+D:\project\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.dll
+D:\project\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.pdb
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.deps.json
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.dll
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.pdb
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Data.dll
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Infrastructure.dll
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Data.pdb
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Infrastructure.pdb
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csprojAssemblyReference.cache
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.AssemblyInfoInputs.cache
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.AssemblyInfo.cs
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csproj.CopyComplete
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.dll
+C:\Users\Tengy\Desktop\project\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.pdb
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.deps.json
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.dll
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.pdb
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Data.dll
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Infrastructure.dll
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Data.pdb
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Infrastructure.pdb
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csprojAssemblyReference.cache
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.AssemblyInfoInputs.cache
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.AssemblyInfo.cs
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csproj.CoreCompileInputs.cache
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csproj.CopyComplete
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.dll
+D:\Mahmoud Adel\Projects\New folder\project\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.pdb
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.deps.json
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.pdb
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Data.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Infrastructure.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Data.pdb
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Infrastructure.pdb
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csprojAssemblyReference.cache
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.AssemblyInfoInputs.cache
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.AssemblyInfo.cs
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csproj.CoreCompileInputs.cache
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csproj.CopyComplete
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.dll
+D:\Mahmoud Adel\Projects\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.deps.json
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Data.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Infrastructure.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Data.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Infrastructure.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csprojAssemblyReference.cache
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.AssemblyInfoInputs.cache
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.AssemblyInfo.cs
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csproj.CopyComplete
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.dll
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.pdb
+E:\Mahmoud Adel\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csproj.CoreCompileInputs.cache
+D:\Projects in Army\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.deps.json
+D:\Projects in Army\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Domain.pdb
+D:\Projects in Army\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Data.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Infrastructure.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Data.pdb
+D:\Projects in Army\NozomApp\Nozom\Nozom.Domain\bin\Debug\netstandard2.0\Nozom.Infrastructure.pdb
+D:\Projects in Army\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csproj.AssemblyReference.cache
+D:\Projects in Army\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects in Army\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.AssemblyInfoInputs.cache
+D:\Projects in Army\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.AssemblyInfo.cs
+D:\Projects in Army\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csproj.CoreCompileInputs.cache
+D:\Projects in Army\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.csproj.CopyComplete
+D:\Projects in Army\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.dll
+D:\Projects in Army\NozomApp\Nozom\Nozom.Domain\obj\Debug\netstandard2.0\Nozom.Domain.pdb

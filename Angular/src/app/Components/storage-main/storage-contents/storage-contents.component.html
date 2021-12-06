@@ -1,0 +1,17 @@
+<div class="container">
+<h1 class="text-center my-3">محتويات المخزن</h1>
+<div class="row justify-content-center mx-0 mt-4">
+  <div *ngFor="let category of categories" class="col-lg-6 col-xl-4 col-xxl-3 col">
+        <button routerLink="/storage/details/{{category.id}}" mat-raised-button class="example-card">
+            <h2 class="category-name">{{category.name}}</h2>
+            <span class="category-quantity">{{category.quantity}}</span>
+        </button>
+    </div>
+    
+    <div class="col-lg-6 col-xl-4 col-xxl-3 col">
+        <button (click)="addCategoryDialog()" mat-raised-button class="example-card ">
+            <h2 class="category-name m-0 plus-icon"><mat-icon class="add-new-category">add</mat-icon></h2>
+        </button>
+    </div>
+</div>
+</div>

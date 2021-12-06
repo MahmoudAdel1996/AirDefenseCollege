@@ -1,0 +1,143 @@
+
+html {
+  background: #fff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #333333;
+}
+
+*::selection{
+  background: #333333;
+  color: #FFF;
+}
+
+section {
+  height: 60vh;
+  width: 100%;
+  background-color: #333333;
+  position: relative;
+}
+
+section::after {
+  background-color: #333333;
+  width: 100%;
+  height: 175px;
+  position: absolute;
+  content: " ";
+  bottom: -75px;
+  transform: skewY(3.5deg);
+}
+
+.card {
+  background-color: #fff;
+  width: 400px;
+  height: 550px;
+  position: absolute;
+  right: 25%;
+  top: 19%;
+  z-index: 100;
+  border-radius: 40px;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.25),
+    inset -5px -5px 20px rgba(0,0,0,.25),
+    inset 5px 5px 20px rgba(255,255,255,.25);
+  animation: right .75s ease-out;
+}
+
+.content {
+  display : flex;
+  flex-direction: column;
+  padding: 2em;
+  align-items: flex-center;
+  height: 100%;
+  justify-items: space-between;
+}
+
+.content i {
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  transform: translateY(-50%);
+  color: #333333;
+  font-size: 1.125rem;
+}
+
+h2 {
+  margin: 1.5em;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.else {
+  display: flex;
+  align-items: center;
+  width: 85%;
+  margin: .5em auto;
+}
+
+.else span {
+  margin-left: auto;
+}
+
+.else span,
+.else label {
+  font-size: .75rem;
+  text-align: right;
+  opacity: .65;
+  cursor: pointer;
+  transition: 250ms;
+}
+
+.else label {
+  margin-left: .5em;
+}
+
+span:hover,
+label:hover{
+  opacity: 100%;
+  text-decoration: underline;
+}
+
+span:active,
+label:active{
+  transform: scale(.99);
+}
+
+section::before {
+  background-color: #fff;
+  width: 100%;
+  height: 250px;
+  position: absolute;
+  content: " ";
+  top: -125px;
+  transform: skewY(-3.5deg);
+}
+
+.instagram:hover .fa-instagram {
+  color: #33333395;
+}
+
+@keyframes right{
+  0% {
+    transform: translateX(700%)
+  }
+  100% {
+    transform: translateX(0)
+  }
+}
+
+@keyframes left{
+  0% {
+    transform: translateX(-100%)
+  }
+  100% {
+    transform: translateX(0)
+  }
+}
+
+mat-form-field{
+    width: 100%;
+}

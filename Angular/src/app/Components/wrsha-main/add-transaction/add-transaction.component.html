@@ -1,0 +1,122 @@
+<div class="container">
+    <h1 class="my-4 text-center">إضافة عملية جديدة</h1>
+
+    <form [formGroup]="currentForm" method="post">
+    <p>بيانات مُسلم الجهاز</p>
+    <div class="row">
+        <div class="col-auto">
+            <mat-form-field appearance="outline">
+                <mat-label>الدرجة</mat-label>
+                <mat-select id="daraga1" formControlName="daraga1" name="daraga1" placeholder="اختار الدجة">
+                    <mat-option *ngFor="let daraga of daragat" value={{daraga.id}}>{{daraga.name}}</mat-option>
+                </mat-select>
+                <mat-icon matSuffix>military_tech</mat-icon>
+                <mat-hint>مثال: جندي</mat-hint>
+            </mat-form-field>
+        </div>
+
+        <div class="col">
+            <mat-form-field appearance="outline">
+                <mat-label>الاسم</mat-label>
+                <input id="name1" formControlName="name1" name="name1" matInput placeholder="اكتب الاسم">
+                <mat-icon matSuffix>person</mat-icon>
+                <mat-hint>مثال: محمود عادل</mat-hint>
+            </mat-form-field>
+        </div>
+
+        <div class="col-auto">
+            <mat-form-field appearance="outline">
+                <mat-label>الفرع</mat-label>
+                <mat-select id="branch" formControlName="branch" name="branch" placeholder="اختار الفرع">
+                    <mat-option *ngFor="let branch of branches" value={{branch.id}}>{{branch.name}}</mat-option>
+                </mat-select>
+                <mat-icon matSuffix>apartment</mat-icon>
+                <mat-hint>مثال: فرع نظم المعلومات</mat-hint>
+            </mat-form-field>
+        </div>
+    </div>
+    <hr>
+    <p>بيانات المُستلم بالورشة</p>
+    <div class="row">
+        <div class="col-auto">
+            <mat-form-field appearance="outline">
+                <mat-label>الدرجة</mat-label>
+                <mat-select id="daraga2" formControlName="daraga2" name="daraga2" placeholder="اختار الدجة">
+                    <mat-option *ngFor="let daraga of daragat" value={{daraga.id}}>{{daraga.name}}</mat-option>
+                </mat-select>
+                <mat-icon matSuffix>military_tech</mat-icon>
+                <mat-hint>مثال: جندي</mat-hint>
+            </mat-form-field>
+        </div>
+        <div class="col">
+            <mat-form-field appearance="outline">
+                <mat-label>الاسم</mat-label>
+                <input id="name2" formControlName="name2" name="name2" matInput placeholder="اكتب الاسم">
+                <mat-icon matSuffix>person</mat-icon>
+                <mat-hint>مثال: محمود عادل</mat-hint>
+            </mat-form-field>
+        </div>
+        <div class="col">
+            <mat-form-field appearance="outline">
+                <mat-label>وصف المشكلة</mat-label>
+                <textarea id="problem" formControlName="problem" name="problem" matInput placeholder="اكتب وصف المشكلة"></textarea>
+                <mat-icon matSuffix>report_problem</mat-icon>
+                <mat-hint>مثال: الرام مهزوزة</mat-hint>
+            </mat-form-field>
+        </div>
+    </div>
+    <hr>
+    <p>بيانات الجهاز</p>
+    <div class="row">
+        <div class="col-auto">
+            <mat-form-field appearance="outline">
+                <mat-label>نوع الجهاز</mat-label>
+                <input type="text"
+                       placeholder="اكتب نوع الجهاز"
+                       aria-label="deviceType"
+                       matInput
+                       id="deviceType" formControlName="deviceType" name="deviceType"
+                       [matAutocomplete]="auto">
+                       <mat-icon matSuffix>monitor</mat-icon>
+                       <mat-hint>مثال: كمبيوتر</mat-hint>
+                <mat-autocomplete autoActiveFirstOption #auto="matAutocomplete">
+                  <mat-option  *ngFor="let option of filteredOptions | async" [value]="option.type">
+                    {{option.type}}
+                  </mat-option>
+                </mat-autocomplete>
+              </mat-form-field>
+        </div>
+        <div class="col">
+            <mat-form-field appearance="outline">
+                <mat-label>الموديل</mat-label>
+                <input id="model" formControlName="model" name="model" matInput placeholder="اكتب الموديل">
+                <mat-icon matSuffix>sell</mat-icon>
+                <mat-hint>مثال: HP Compaq 8200</mat-hint>
+            </mat-form-field>
+        </div>
+        <div class="col-auto">
+            <mat-form-field appearance="outline">
+                <mat-label>السريال</mat-label>
+                <input id="serial" formControlName="serial" name="serial"s matInput placeholder="اكتب السريال">
+                <mat-icon matSuffix>pin</mat-icon>
+                <mat-hint>مثال: YK3F058952</mat-hint>
+            </mat-form-field>
+        </div>
+    </div>
+
+    <div class="row justify-content-between align-items-center mt-5">
+        <div class="col-auto">
+            <button [disabled]="currentForm.invalid || isLoading" (click)="addTransaction()" class="px-5 py-2" mat-flat-button color="primary">
+                <span *ngIf="!isLoading"><mat-icon matSuffix>add</mat-icon> إضافة</span>
+                <span *ngIf="isLoading"> انتظر ...</span>
+            </button>
+        </div>
+        <div class="col-auto">
+            <button type="reset" (click)="reset()" class="px-5 py-2" mat-flat-button color="warn">
+                <mat-icon matSuffix>restart_alt</mat-icon> تفريغ
+            </button>
+            
+        </div>
+    </div>
+    </form>
+</div>
