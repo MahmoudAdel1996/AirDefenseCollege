@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects in Army\\NozomApp\\Nozom\\Nozom.Infrastructure\\Nozom.Infrastructure.csproj": {}
+    "D:\\Projects in Army\\AirDefenseCollege\\Nozom.Infrastructure\\Nozom.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Projects in Army\\NozomApp\\Nozom\\Nozom.Data\\Nozom.Data.csproj": {
+    "D:\\Projects in Army\\AirDefenseCollege\\Nozom.Data\\Nozom.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects in Army\\NozomApp\\Nozom\\Nozom.Data\\Nozom.Data.csproj",
+        "projectUniqueName": "D:\\Projects in Army\\AirDefenseCollege\\Nozom.Data\\Nozom.Data.csproj",
         "projectName": "Nozom.Data",
-        "projectPath": "D:\\Projects in Army\\NozomApp\\Nozom\\Nozom.Data\\Nozom.Data.csproj",
+        "projectPath": "D:\\Projects in Army\\AirDefenseCollege\\Nozom.Data\\Nozom.Data.csproj",
         "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects in Army\\NozomApp\\Nozom\\Nozom.Data\\obj\\",
+        "outputPath": "D:\\Projects in Army\\AirDefenseCollege\\Nozom.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,14 +75,14 @@
         }
       }
     },
-    "D:\\Projects in Army\\NozomApp\\Nozom\\Nozom.Infrastructure\\Nozom.Infrastructure.csproj": {
+    "D:\\Projects in Army\\AirDefenseCollege\\Nozom.Infrastructure\\Nozom.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects in Army\\NozomApp\\Nozom\\Nozom.Infrastructure\\Nozom.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Projects in Army\\AirDefenseCollege\\Nozom.Infrastructure\\Nozom.Infrastructure.csproj",
         "projectName": "Nozom.Infrastructure",
-        "projectPath": "D:\\Projects in Army\\NozomApp\\Nozom\\Nozom.Infrastructure\\Nozom.Infrastructure.csproj",
+        "projectPath": "D:\\Projects in Army\\AirDefenseCollege\\Nozom.Infrastructure\\Nozom.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects in Army\\NozomApp\\Nozom\\Nozom.Infrastructure\\obj\\",
+        "outputPath": "D:\\Projects in Army\\AirDefenseCollege\\Nozom.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,8 +99,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\Projects in Army\\NozomApp\\Nozom\\Nozom.Data\\Nozom.Data.csproj": {
-                "projectPath": "D:\\Projects in Army\\NozomApp\\Nozom\\Nozom.Data\\Nozom.Data.csproj"
+              "D:\\Projects in Army\\AirDefenseCollege\\Nozom.Data\\Nozom.Data.csproj": {
+                "projectPath": "D:\\Projects in Army\\AirDefenseCollege\\Nozom.Data\\Nozom.Data.csproj"
               }
             }
           }

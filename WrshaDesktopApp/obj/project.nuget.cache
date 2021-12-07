@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BmLw7/EwabPvurDsVGUM2wyHsTh7E45AVicUzfuPdQD1RGb7cNLct65o/eXjMq15vAX858SbzvZzvEMB/wFODQ==",
+  "dgSpecHash": "d3Ngl9ugq44MYl2NUoEJkaeTkGKE/Hzg580lXNIel+PhEJmG/atwEcDzXaWzHH26RwfYNCcWR/Uvlj/O68ulhA==",
   "success": true,
-  "projectFilePath": "D:\\Projects in Army\\NozomApp\\Nozom\\WrshaDesktopApp\\WrshaDesktopApp.csproj",
+  "projectFilePath": "D:\\Projects in Army\\AirDefenseCollege\\WrshaDesktopApp\\WrshaDesktopApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahmoud\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

@@ -53,3 +53,13 @@ D:\Projects in Army\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Dat
 D:\Projects in Army\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.csproj.CoreCompileInputs.cache
 D:\Projects in Army\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.dll
 D:\Projects in Army\NozomApp\Nozom\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.pdb
+D:\Projects in Army\AirDefenseCollege\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.deps.json
+D:\Projects in Army\AirDefenseCollege\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.dll
+D:\Projects in Army\AirDefenseCollege\Nozom.Data\bin\Debug\netstandard2.0\Nozom.Data.pdb
+D:\Projects in Army\AirDefenseCollege\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.csproj.AssemblyReference.cache
+D:\Projects in Army\AirDefenseCollege\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects in Army\AirDefenseCollege\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.AssemblyInfoInputs.cache
+D:\Projects in Army\AirDefenseCollege\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.AssemblyInfo.cs
+D:\Projects in Army\AirDefenseCollege\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.csproj.CoreCompileInputs.cache
+D:\Projects in Army\AirDefenseCollege\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.dll
+D:\Projects in Army\AirDefenseCollege\Nozom.Data\obj\Debug\netstandard2.0\Nozom.Data.pdb

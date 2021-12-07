@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Xr0WKzxCKusAlnFQ0sSEnfQkL9wK67MabNZtnNhQXG6d/K2sDj/jFtldPOOIvmmtQkjXIoa/Pr8xOtC7vfrmA==",
+  "dgSpecHash": "SViuIt/Mpbas3nAs3rPtY2DKUVxpi/nGHE9eGzsMun9EBhd/nzqZG9Uu8NRX2Uq0cB0z3MRX7uVbwCK9NT+tlQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects in Army\\NozomApp\\Nozom\\Nozom.Infrastructure\\Nozom.Infrastructure.csproj",
+  "projectFilePath": "D:\\Projects in Army\\AirDefenseCollege\\Nozom.Infrastructure\\Nozom.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

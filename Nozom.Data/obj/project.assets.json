@@ -6866,11 +6866,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects in Army\\NozomApp\\Nozom\\Nozom.Data\\Nozom.Data.csproj",
+      "projectUniqueName": "D:\\Projects in Army\\AirDefenseCollege\\Nozom.Data\\Nozom.Data.csproj",
       "projectName": "Nozom.Data",
-      "projectPath": "D:\\Projects in Army\\NozomApp\\Nozom\\Nozom.Data\\Nozom.Data.csproj",
+      "projectPath": "D:\\Projects in Army\\AirDefenseCollege\\Nozom.Data\\Nozom.Data.csproj",
       "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects in Army\\NozomApp\\Nozom\\Nozom.Data\\obj\\",
+      "outputPath": "D:\\Projects in Army\\AirDefenseCollege\\Nozom.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",

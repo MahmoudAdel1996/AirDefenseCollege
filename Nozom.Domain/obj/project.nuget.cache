@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DUloITPI1u762vURjXq1bZC1ksZNf9v8AceUWa1KWPD3khm5OwHO/0WuKPKIwMtUIhtVcXww1t8JZ6bq+DJbHg==",
+  "dgSpecHash": "2hDkYJDXTsNjZynRm0gAORgLzIVUuu2XYlCt+5+apPHjpK0hb7IaSBgUPZkwl1fDvSizNx/MftAFZr5xOY8SCw==",
   "success": true,
-  "projectFilePath": "D:\\Projects in Army\\NozomApp\\Nozom\\Nozom.Domain\\Nozom.Domain.csproj",
+  "projectFilePath": "D:\\Projects in Army\\AirDefenseCollege\\Nozom.Domain\\Nozom.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahmoud\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
